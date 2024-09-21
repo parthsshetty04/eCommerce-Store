@@ -105,6 +105,13 @@ This E-commerce store project, developed using **PHP** and **MySQL**, provides a
 - Admins can log in to the admin panel to manage product inventory, orders, and user accounts.
 - Generate sales reports, view site activity, and monitor performance.
 
+## Screenshot
+
+![Home Page](HomePage.png)
+![Product View](product.png)
+![Checkout](cart.png)
+
+
 
 ## Future Enhancements
 
